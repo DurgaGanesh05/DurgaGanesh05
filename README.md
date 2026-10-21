@@ -119,9 +119,10 @@ I enjoy building applications from the user interface through backend services, 
       <p><a href="https://travel-ai-agent-bay.vercel.app/">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DurgaGanesh05/Amazon-Clone">Amazon Clone</a></h3>
-      <p>An e-commerce interface project that demonstrates frontend implementation practice.</p>
-      <p><sub>See repository for current implementation details</sub></p>
+      <h3><a href="https://github.com/DurgaGanesh05/Portfolio">Portfolio Website</a></h3>
+      <p>A responsive portfolio site featuring animated sections for projects, skills, certifications, education, and contact information.</p>
+      <p><sub>React · TypeScript · Tailwind CSS · Framer Motion · Vite</sub></p>
+      <p><a href="https://portfoliods-mu.vercel.app">Live demo</a></p>
     </td>
   </tr>
 </table>
