@@ -167,7 +167,7 @@ I enjoy building applications from the user interface through backend services, 
 This animation is generated automatically from my GitHub contribution graph by GitHub Actions.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake.svg?v=2" alt="Durga Ganesh's GitHub contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake-dark.svg?v=3" alt="Durga Ganesh's GitHub contribution snake animation" width="100%" />
 </div>
 
 ## Let's Connect
