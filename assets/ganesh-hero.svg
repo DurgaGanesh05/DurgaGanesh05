@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Durga Ganesh — Full Stack Development and Data Science</title>
+  <desc id="desc">A midnight burgundy technology banner with subtle moving light, a technical grid, and connected nodes.</desc>
+  <defs>
+    <linearGradient id="ganesh-hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="55%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="ganesh-hero-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#C77B9B" stop-opacity="0.44"/>
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="11s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="ganesh-hero-grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#E5B5C7" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <filter id="ganesh-hero-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="ganesh-hero-clip"><rect width="1200" height="330" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#ganesh-hero-clip)">
+    <rect width="1200" height="330" rx="18" fill="url(#ganesh-hero-bg)"/>
+    <rect width="1200" height="330" fill="url(#ganesh-hero-grid)"/>
+    <rect x="0" y="0" width="1200" height="330" fill="url(#ganesh-hero-light)"/>
+    <circle cx="1040" cy="60" r="150" fill="#701A3D" opacity="0.20"/>
+    <circle cx="1080" cy="240" r="180" fill="#C77B9B" opacity="0.055"/>
+    <g fill="none" stroke="#C77B9B" stroke-opacity="0.56" stroke-width="1.5">
+      <path d="M825 72 L905 122 L1004 94 L1101 148 L1164 111"/>
+      <path d="M840 250 L923 202 L1011 238 L1095 190 L1170 226"/>
+      <path d="M905 122 L923 202 M1004 94 L1011 238 M1101 148 L1095 190" stroke-opacity="0.32"/>
+      <circle cx="825" cy="72" r="4" fill="#E5B5C7"/>
+      <circle cx="905" cy="122" r="4" fill="#E5B5C7"/>
+      <circle cx="1004" cy="94" r="4" fill="#E5B5C7"/>
+      <circle cx="1101" cy="148" r="4" fill="#E5B5C7"/>
+      <circle cx="1164" cy="111" r="4" fill="#E5B5C7"/>
+      <circle cx="840" cy="250" r="4" fill="#E5B5C7"/>
+      <circle cx="923" cy="202" r="4" fill="#E5B5C7"/>
+      <circle cx="1011" cy="238" r="4" fill="#E5B5C7"/>
+      <circle cx="1095" cy="190" r="4" fill="#E5B5C7"/>
+      <circle cx="1170" cy="226" r="4" fill="#E5B5C7"/>
+    </g>
+    <path d="M55 255 C180 245 245 262 362 249 S590 250 735 241" fill="none" stroke="#701A3D" stroke-width="2" opacity="0.95"/>
+    <path d="M55 255 C180 245 245 262 362 249 S590 250 735 241" fill="none" stroke="#E5B5C7" stroke-width="2" stroke-dasharray="75 650" filter="url(#ganesh-hero-glow)">
+      <animate attributeName="stroke-dashoffset" values="725;0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <text x="62" y="69" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="4" fill="#C77B9B">BUILD • ANALYZE • CREATE</text>
+    <text x="56" y="146" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5" fill="#F8F0F3">DURGA GANESH</text>
+    <text x="60" y="190" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#E5B5C7">Full Stack Development  ×  Data Science</text>
+    <text x="60" y="222" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#F8F0F3" opacity="0.78">Building applications. Finding insights. Solving problems with code.</text>
+    <text x="60" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#C77B9B">REACT  /  NODE.JS  /  PYTHON  /  ANALYTICS</text>
+  </g>
+</svg>
