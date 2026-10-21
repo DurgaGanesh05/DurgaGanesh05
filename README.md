@@ -131,9 +131,9 @@ I enjoy building applications from the user interface through backend services, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DurgaGanesh05/Super-Store-Sales-Analysis">Superstore Sales Analysis</a></h3>
-      <p>Explores sales, profit, discounts, quantity, and product categories using data cleaning, summary metrics, visualizations, and outlier analysis.</p>
-      <p><sub>Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy</sub></p>
+      <h3><a href="https://github.com/DurgaGanesh05/INSPIRE-MANAK-Power-BI-Dashboard">INSPIRE-MANAK Scholarship Dashboard</a></h3>
+      <p>A Power BI reporting project using the INSPIRE-MANAK dataset, with the report file and source CSV included in the repository.</p>
+      <p><sub>Power BI · CSV · Data Visualization</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DurgaGanesh05/Loan-Approval-Predictor">Loan Approval Predictor</a></h3>
