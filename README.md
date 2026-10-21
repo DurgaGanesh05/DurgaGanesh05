@@ -148,7 +148,7 @@ I enjoy building applications from the user interface through backend services, 
       <p><sub>Python · Data preprocessing · Machine learning</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DurgaGanesh05/Product-Category-Insights-Dashboard">Sales Insights Dashboard</a></h3>
+      <h3><a href="https://github.com/DurgaGanesh05/Product-Category-Insights-Dashboard">Product Category Insights Dashboard</a></h3>
       <p>An Excel dashboard project covering data preparation, sales trends, product performance, profitability, and interactive filtering.</p>
       <p><sub>Excel · Power Query · PivotTables · Charts</sub></p>
     </td>
