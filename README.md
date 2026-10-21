@@ -164,13 +164,11 @@ I enjoy building applications from the user interface through backend services, 
 
 ## Contribution Snake
 
-The contribution animation appears after the workflow runs successfully for the first time. It reflects GitHub contribution data; it is not manually drawn or fabricated.
+This animation is generated automatically from my GitHub contribution graph by GitHub Actions.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation (available after workflow setup)" src="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DurgaGanesh05/DurgaGanesh05/output/github-contribution-grid-snake.svg?v=2" alt="Durga Ganesh's GitHub contribution snake animation" width="100%" />
+</div>
 
 ## Let's Connect
 
