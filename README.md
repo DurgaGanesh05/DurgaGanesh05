@@ -158,7 +158,7 @@ I enjoy building applications from the user interface through backend services, 
 ## GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurgaGanesh05&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&rank_icon=github" alt="GitHub statistics for Durga Ganesh" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DurgaGanesh05&custom_title=GitHub%20Stats&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&rank_icon=github" alt="GitHub statistics for Durga Ganesh" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaGanesh05&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Top languages on GitHub" height="165" />
 </div>
 
